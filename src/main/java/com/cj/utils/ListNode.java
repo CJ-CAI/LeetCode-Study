@@ -1,5 +1,11 @@
-package utils;
+package com.cj.utils;
 
+/**
+ * 列表节点
+ *
+ * @author CJ_CA
+ * @date 2023/08/21
+ */
 public class ListNode {
     public int val;
     public ListNode next;
@@ -7,7 +13,7 @@ public class ListNode {
     public ListNode() {
     }
 
-    ListNode(int val) {
+    public ListNode(int val) {
         this.val = val;
     }
 

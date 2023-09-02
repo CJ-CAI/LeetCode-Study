@@ -1,3 +1,5 @@
+package com.cj.Top100;
+
 public class canJump {
     public static void main(String[] args) {
         int[] nums = new int[]{3,2,1,0,4};

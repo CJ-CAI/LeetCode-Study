@@ -1,4 +1,4 @@
-import utils.ListNode;
+import com.cj.utils.ListNode;
 
 public class removeNthFromEnd {
 

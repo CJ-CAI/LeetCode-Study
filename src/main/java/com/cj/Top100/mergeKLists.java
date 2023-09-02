@@ -1,6 +1,4 @@
-import utils.ListNode;
-
-import java.util.List;
+import com.cj.utils.ListNode;
 
 public class mergeKLists {
     public static ListNode list1 = new ListNode();

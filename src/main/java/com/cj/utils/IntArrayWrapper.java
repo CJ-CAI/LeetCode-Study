@@ -1,4 +1,4 @@
-package utils;
+package com.cj.utils;
 
 import java.util.Arrays;
 
